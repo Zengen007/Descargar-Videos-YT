@@ -6,7 +6,7 @@ Esto se suele hacer cuando no se ha clonado un repositorio, va seguido de otro c
 ```bash
 git init
 
-git remote add origin <branch> <url>
+git remote add <name> <url>
 ```
 
 #
